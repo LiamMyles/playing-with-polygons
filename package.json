@@ -16,7 +16,7 @@
     "@types/styled-components": "^5.1.0",
     "downloadjs": "^1.4.7",
     "gh-pages": "^2.2.0",
-    "immer": "^6.0.5",
+    "immer": "^9.0.6",
     "p5": "^1.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
